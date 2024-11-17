@@ -7,7 +7,6 @@ This project implements Physics-Informed Neural Networks (PINNs) for solving and
 - Compatible with TensorFlow 2.x, ensuring modern and efficient execution.
 
 ## References (W.I.P)
-For more information about Physics-Informed Neural Networks, refer to the following publications:
 
 1. Raissi, Maziar, Paris Perdikaris, and George E. Karniadakis.  
    **"Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations."**  
